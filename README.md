@@ -3,8 +3,8 @@
 
 
 ## 🌐 Social Media:
-Linkedin ![image](https://user-images.githubusercontent.com/120725100/236257528-13101e6f-f170-4b7c-88bb-012744d2e589.png)
-:(https://www.linkedin.com/in/marcos-maio-792aab23a/)
+Linkedin: ![image](https://user-images.githubusercontent.com/120725100/236257813-e4622468-b1bf-495b-90fa-a499baac66ec.png)
+(https://www.linkedin.com/in/marcos-maio-792aab23a/)
 WhatsApp: 55+ 21965399177
 
 # 💻 Tech Stack:
