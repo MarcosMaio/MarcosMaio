@@ -15,5 +15,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MarcosMaio&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Dev Quote
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
