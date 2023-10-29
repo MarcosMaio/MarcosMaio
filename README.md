@@ -36,13 +36,3 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcosMaio&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=202020" alt="Marcos Maio github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMaio&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=202020" />
 </div>
-
-<br>
-
-<h3 align="center">Dev Quote ✍️</h3>
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&color=202020)
-
-</div>
