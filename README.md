@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+My+name+is+Marcos+Maio;I'm+21+years+old;I'm+a+Web+Developer+Full+Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h3 align="center">Web programming student with a passion for creating dynamic and creative web applications</h3>
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47k2aaf4dd2waodjnwt1e18n9ggmb5jay9scxocvbz&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+<img align="right" alt="coding" width="400" height="350" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"
 
 👨🏻‍💻 I’m looking to **build web application project that aims to revolutionize the way people interact with online content. This project combines my passion for dynamic web apps with my commitment to creating captivating user experiences. It's an exciting endeavor that I'm pouring my creativity and technical skills into.**
 
