@@ -1,5 +1,3 @@
-![MasterHead](https://lh3.googleusercontent.com/pw/ADCreHc5IfE42CRshlYB-rqCXhP3AVl2uBNXyetF2jdONZHHoglxEm-P_j7F4u3OeQw9brK9OEZ-0HcpF-DhkI-hNJ9GlBvuW_Ma4HJu9VFX8SojsnhWLf8kZ38ONlgGU7munAUe3nyXbOPYbkIn-4IwCPzDyNUrmJqotklsUvsweEQHv1PyJTbv3OA6gf4nBqV5oZ-xvjrV3_X3hQKPkiDJaBzD2xLclDDadxpzBtGmnuD1LZr4zuUDOUTLPOB5ofCcquctUpSSAca15FQG4Kr_9GRkKeoVHNsSEAzhgQlYaFwZEGyILjxfdnQr4vE25B4p-oTiqAvufh2FjLTFyIGOqVFLZoxWM_XboQci5TTW5UxcRSkIQIbqXO_UJ-hXX0Syv75myuXPcCoq3rjDlBWZW09ppw7-vJ-9Asckfrr7iWLZq5vnKpmsdiqWi_Ejrmgw-9-Twe2VJdLoiQ5WjHpAX3fEDGY0mmD5ub1zTbS8STWtRC-ryb-G31rmDU1rr5ESSNc8sMYjVgkwuyaF3iG5-SflPFxjTajBsjW8YLgS3ChkesBRyoCfidQpc3AUvPOQqQanNgUmTBa8m551qFMfR8G6nbZR0aAr17YyuDXuaMi3-AHUxKdOKqU2IxTWRKguh1oKgix9hO0eT_d1YowbcsV3F2jIoLTb8bBrTQtO7BSpQGYyDsFzCwTAOea8c2MOybBR6E73LStPJOgJhIE-PrJAFj1imOWaHlVeY7OYQ_s6y_fhig6YN-e4gUQRNw48DPBw_mzibCM51p5vB3qWt2APz3fPSUI0NmuwaKstDAwdYChzWGISRwkEUCDLqJ1_JaaFnu7qkvRrsK7isTI_kyhjq8AYmp5EB0mDCaED-ptzp-Xcu-mn16X2XkUbWTM3RqmSCTbRuDYSDcbcxYeqt7Ub5w4AB0_4B3GIqjC81YHpfMj6ocAIJ8Q4N3f8=w1920-h408-s-no-gm?authuser=1)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+👋,+My+name+is+Marcos+Maio;I'm+21+years+old;I'm+a+Web+Developer+Full+Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <h3 align="center">Web programming student with a passion for creating dynamic and creative web applications</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47k2aaf4dd2waodjnwt1e18n9ggmb5jay9scxocvbz&ep=v1_gifs_search&rid=giphy.gif&ct=g"
@@ -48,5 +46,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&color=202020)
 
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202020&height=120&section=footer"/>
