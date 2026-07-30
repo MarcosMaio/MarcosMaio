@@ -1,109 +1,85 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer+%26+AI+Software+Engineer;Creating+innovative+digital+solutions)](https://git.io/typing-svg)
+# Marcos Maio
 
-## About Me
+**Senior Software Engineer, AI** — Generative AI · LLMs · RAG · AI Security & Governance · Cloud & MLOps
 
-<img align="right" alt="coding" width="400" height="380" src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47b5r6orwstw7b1z8yfl1jvz041mqyjaurgzia8o8l&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
-
-I am a **Full Stack Developer & AI Software Engineer** creating innovative digital solutions at the intersection of web development and artificial intelligence.  
-I am a hybrid professional with dual expertise in full stack web development (Front-End, Back-End, UI/UX) and AI systems engineering. My career is driven by the pursuit of technical solutions that combine usability, performance, and disruptive innovation.
-
----
-
-## Core Competencies
-
-- **Languages:** Python, PHP JavaScript, TypeScript, SQL  
-- **AI & Machine Learning:** LangChain, Hugging Face, TensorFlow, PyTorch, RAG Systems  
-- **Multi-Agent Architecture:** Automation with AI agents, integration of LLMs  
-- **Cloud & Infrastructure:** Azure (AI Services, DevOps), Google Cloud, Docker, Kubernetes  
-- **CI/CD & DevOps:** GitHub Actions, Azure Pipelines  
-- **Databases:** MySQL, PostgreSQL  
-- **Front-End:** React.js, Next.js, UI/UX Design
-- **Back-End:** Laravel, Django
-- **Agile Methodologies:** Scrum, Kanban  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--maio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-maio)
+[![Email](https://img.shields.io/badge/Email-marcospaulomaio2607%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcospaulomaio2607@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Maric%C3%A1%2C%20RJ%2C%20Brazil-informational?style=flat-square)](#)
 
 ---
 
-## Relevant Experience
+## About
 
-### AI Software Engineer | CADS Digital Experience  
-*Jan 2025 – Present | Rio de Janeiro, Brazil (Remote)*
+AI Engineer specialized in **AI Security & GenAI Governance**, with hands-on experience protecting production AI ecosystems in regulated, large-scale environments (financial services, telecom, enterprise ERP). Specialist in **LLM red teaming** (OWASP Top 10 for LLMs, Microsoft PyRIT, Promptfoo), **continuous evaluation of agents in production**, and **multi-agent architecture** — combining senior software engineering (Python, Cloud, CI/CD) with rigorous security controls. Track record of **32 GenAI use cases evaluated and secured** before reaching production.
 
-- Designed and implemented AI agents to automate workflows, integrating technologies such as LangChain and RAG Systems for contextual data processing.
-- Optimized ML models using Python and Django, and engineered prompts for NLP applications and content generation.
-- Containerized solutions with Docker and deployed them at scale on Google Cloud.
-
-### Full Stack Developer | Freelance & Previous Projects  
-*Dec 2023 – Jan 2025*
-
-- Developed responsive interfaces with React.js, Next.js, and Tailwind CSS, ensuring high performance and intuitive user experiences.
-- Built robust back-end systems using PHP/Laravel and Node.js, integrating APIs and optimizing SQL queries.
-- Modernized legacy systems, including database migrations and code refactoring.
-- Collaborated with teams focused on AI-powered task optimization using Python, Django, prompt engineering, and machine learning.
-
-### Freelance Web Developer | Self Employed  
-*Feb 2024 – Aug 2024 | Rio de Janeiro, Brazil (Remote)*
-
-- Developed and debugged web systems by addressing legacy code issues and implementing new features.
-- Created responsive, visually engaging interfaces aligned with modern UI/UX standards.
-- Optimized performance by streamlining codebases, databases, and workflows.
-- Delivered customized web solutions using PHP, Laravel, and JavaScript.
-
-### Front-End Developer and Web Designer | 321Go  
-*Jan 2022 – Feb 2023 | Rio de Janeiro, Brazil (Remote)*
-
-- Migrated AWS services (RDS, EC2, S3, etc.) to DigitalOcean, ensuring a smooth and efficient transition of infrastructure resources.
-- Implemented front-end changes using React.js and made backend adjustments with Python/Flask and PostgreSQL, with a strong focus on application security.
-- Designed intuitive and attractive user interfaces using Figma, enhancing overall usability and user experience.
+Currently focused on transforming legacy automation into autonomous AI agents, while pursuing a postgraduate degree in Applied AI Engineering (UNIPDS) and an MBA in Machine Learning Engineering (FIAP).
 
 ---
 
-## Academic Background
+## Professional Focus & Impact
 
-- **Technologist in Artificial Intelligence** | FIAP  
-  *Feb 2025 – Feb 2027*  
-  Focus on AI Agents, AI systems, and advanced competencies.
+**Autonomous Agents & Process Automation**
+- Led the conversion of legacy RPA flows into autonomous AI agents combining LLMs, RAG, and computer vision, cutting execution time per process by **40%** and achieving **95%+ task success rate** in production enterprise environments.
+- Implemented security-by-design guardrails and validation from conception, blocking **8 vulnerabilities pre-production** through CI/CD pipelines.
 
-- **Technologist in Systems Analysis and Development** | Estácio de Sá  
-  *Jun 2022 – Jan 2025*  
-  GPA: 8.89  
-  Emphasis on Programming, Front-End Development, and additional technical skills.
+**GenAI Evaluation & Observability**
+- Structured continuous evaluation for **8+ GenAI use cases in production** using golden sets, regression testing, and groundedness/hallucination/safety metrics (DeepEval, G-Eval, ROUGE/BLEU/METEOR), reducing quality incidents by **35%**.
+- Monitored production agents on task success rate, tool-calling accuracy, latency, and cost per execution, cutting drift/degradation detection time by **50%** via thresholds and alerting.
+- Combined automated evaluation (LLM-as-a-judge) with human review in a continuous loop, sustaining **90% adherence** to defined quality criteria.
+
+**AI Security & Governance**
+- Ran red teaming covering OWASP Top 10 for LLMs risks (prompt injection, jailbreak, data leakage, tool abuse) across **12 use cases**, blocking **20+ vulnerabilities** before production.
+- Automated security testing pipelines with Microsoft PyRIT, Promptfoo, and DeepTeam, cutting evaluation time per use case by **60%**, producing evidence, reports, and playbooks aligned with NIST AI RMF.
+- Grew from sub-lead to squad lead within 8 months, coordinating a team of 3 and aligning technical risk with cross-functional stakeholders.
+
+**Full-Stack AI Solutions**
+- Built a financial document entity-extraction platform from scratch (Python, Django, LangChain), processing **12,000 documents/month at 97% average accuracy**, eliminating manual data entry.
+- Developed a multi-agent marketing automation platform (briefing, content, review, validation), reducing campaign creation cycle time by **45%**.
+- Delivered full-stack improvements on high-traffic platforms serving **150,000+ users**, optimizing SQL queries and reducing operational rework by **30%**.
 
 ---
 
-## Why Work With Me?
+## Selected Projects
 
-- **Broader Technical Vision:** I combine traditional web development skills with advanced AI techniques to solve complex problems.
-- **Measurable Results:** Proven track record in reducing manual tasks through automation and enhancing the performance of critical systems.
-- **Collaborative Approach:** Extensive experience working in multidisciplinary teams, aligning design, code, and AI with business needs.
+- **Internal PDF RAG Knowledge Chat** — Full-stack RAG pipeline (LangChain, ChromaDB, FastAPI, Docker) with cited answers and confidence scoring in under 120ms per query.
+- **Risk Scoring ML Pipeline** — Risk-scoring pipeline with feature engineering and supervised models achieving AUC ≈ 0.91 (scikit-learn, PyTorch, structured data validation).
+- **Financial Document Entity Extraction** — LLM-based structured entity extraction from financial documents (Django, LangChain, REST APIs).
 
-🚀 **Available for challenging projects as a freelancer or technical partner.**
+---
+
+## Skills
+
+**AI Security & Governance**
+![Red Teaming](https://img.shields.io/badge/-Red%20Teaming-black?style=flat-square) ![Prompt Injection](https://img.shields.io/badge/-Prompt%20Injection-black?style=flat-square) ![Jailbreak](https://img.shields.io/badge/-Jailbreak-black?style=flat-square) ![Guardrails](https://img.shields.io/badge/-Guardrails-black?style=flat-square) ![PyRIT](https://img.shields.io/badge/-Microsoft%20PyRIT-black?style=flat-square) ![Promptfoo](https://img.shields.io/badge/-Promptfoo-black?style=flat-square) ![DeepTeam](https://img.shields.io/badge/-DeepTeam-black?style=flat-square) ![OWASP LLM Top 10](https://img.shields.io/badge/-OWASP%20Top%2010%20for%20LLMs-black?style=flat-square) ![NIST AI RMF](https://img.shields.io/badge/-NIST%20AI%20RMF-black?style=flat-square)
+
+**LLMs & Generative AI**
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square) ![CrewAI](https://img.shields.io/badge/-CrewAI-1C3C3C?style=flat-square) ![RAG](https://img.shields.io/badge/-RAG-1C3C3C?style=flat-square) ![Multi--Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-1C3C3C?style=flat-square) ![MCP](https://img.shields.io/badge/-MCP-1C3C3C?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-1C3C3C?style=flat-square)
+
+**Evaluation & Observability**
+![DeepEval](https://img.shields.io/badge/-DeepEval-4B5563?style=flat-square) ![RAGAS](https://img.shields.io/badge/-RAGAS-4B5563?style=flat-square) ![G--Eval](https://img.shields.io/badge/-G--Eval-4B5563?style=flat-square) ![LangSmith](https://img.shields.io/badge/-LangSmith-4B5563?style=flat-square) ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-4B5563?style=flat-square) ![Prometheus](https://img.shields.io/badge/-Prometheus-4B5563?style=flat-square)
+
+**Software Engineering**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Cloud & Data**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?style=flat-square)
+
+**Machine Learning**
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![SHAP](https://img.shields.io/badge/-SHAP-000000?style=flat-square)
+
+---
+
+## Education
+
+- **Postgraduate, Applied AI Engineering** — UNIPDS *(May 2026 – May 2027, in progress)*
+  LLMs, RAG, MCP, autonomous agents, fine-tuning (LoRA/PEFT), AI security & governance.
+- **MBA, Machine Learning Engineering** — FIAP *(Jan 2026 – Oct 2026, in progress)*
+  MLflow, DVC, Docker, Kubernetes, CI/CD, model monitoring, data drift, LLMOps.
+- **B.Tech, Systems Analysis and Development** — Estácio de Sá *(Jul 2022 – Jan 2025, completed)*
 
 ---
 
 ## Contact
 
-📫 **Email:** Marcospaulomaio2607@gmail.com
-
----
-
-<div align="center">
-  <!-- GitHub Stats -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MarcosMaio&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=202020" alt="Marcos Maio GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosMaio&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=202020" alt="Top Languages" />
-</div>
-
-<h3 align="center">Connect With Me 🤝🏻</h3>
-<p align="center">
-  <a href="https://twitter.com/maio_marcos" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/marcosmaio" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/marcos_maiio" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/6b2778c2e61568b6fba3aafed83b0cb8" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+📫 **Email:** [marcospaulomaio2607@gmail.com](mailto:marcospaulomaio2607@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/marcos-maio](https://www.linkedin.com/in/marcos-maio)
