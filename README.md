@@ -1,6 +1,6 @@
 # Marcos Maio
 
-**Senior Software Engineer, AI** — Generative AI · LLMs · RAG · AI Security & Governance · Cloud & MLOps
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer%2C+AI;Generative+AI+%7C+LLMs+%7C+RAG;AI+Security+%26+GenAI+Governance;Multi-Agent+Systems+%7C+Cloud+%26+MLOps)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcos--maio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-maio)
 [![Email](https://img.shields.io/badge/Email-marcospaulomaio2607%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marcospaulomaio2607@gmail.com)
@@ -76,6 +76,16 @@ Currently focused on transforming legacy automation into autonomous AI agents, w
 - **MBA, Machine Learning Engineering** — FIAP *(Jan 2026 – Oct 2026, in progress)*
   MLflow, DVC, Docker, Kubernetes, CI/CD, model monitoring, data drift, LLMOps.
 - **B.Tech, Systems Analysis and Development** — Estácio de Sá *(Jul 2022 – Jan 2025, completed)*
+
+---
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcosMaio/MarcosMaio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcosMaio/MarcosMaio/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/MarcosMaio/MarcosMaio/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
